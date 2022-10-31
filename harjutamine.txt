@@ -4,3 +4,6 @@ GitHub on suurim veebiteenus IT-projektide haldamiseks ja ühiseks arendamiseks.
 Github on omamoodi sotsiaalne võrgustik arendajatele, kus saab kommenteerida teiste inimeste koodi ja aidata neil seda kirjutada.
 Samuti saate jagada oma repositooriumi githubis, et teha muudatusi teiste inimeste koodis või lasta kellelgi teisel teha muudatusi oma koodis.
 See on kogukonna koostööl põhinev sait.
+
+Tulevikus kasutan githab abi teistelt inimestelt, et aidata mul oma koodi ehitada. 
+Ma kasutan seda isiklikuks kasutamiseks või kui ma saan hea töö, sest on ebatõenäoline, et ma vajan seda mis tahes regulaarse
